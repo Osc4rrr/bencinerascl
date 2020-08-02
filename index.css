@@ -1,0 +1,22 @@
+#mapa{
+    width: 400px;
+    height:500px;
+}
+
+.titulo{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.titulo span{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#buscar input{
+    text-transform: capitalize;
+}
+
+.titulo span i {
+    float: right;
+    font-size: 35px;
+}
